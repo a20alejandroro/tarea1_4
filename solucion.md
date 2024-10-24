@@ -4,6 +4,15 @@
 
 **1**. Tomaremos a máquina benskywalker, e configuraremola para ser servidor secundario, tanto da zona primaria academia.jedi de resolución directa como de resolución inversa. Captura a configuración en ambalas dúas máquinas.
 
+- Habilitar la transferencia de zona en LUKESKYWALKER para BENSKYWALKER:
+
+  ![Imagen Ejer1_1.png](/imagenes/Ejer1_0A.png)
+
+- BENSKYWALKER puede transferir LUKESKYWALKER:
+
+  ![Imagen Ejer1_1.png](/imagenes/Ejer1_0B.png)
+
+
 - Configuración LUKESKYWALKER:
 
   ![Imagen Ejer1_1.png](/imagenes/Ejer1_1.png)
