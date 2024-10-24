@@ -1,4 +1,4 @@
-## 1.2 Instalación de zonas mestras primarias en Windows Server - Alejandro Rey Otero
+## 1.4 Instalación de zonas secundarias con Windows Server - Alejandro Rey Otero
 
 ---
 
